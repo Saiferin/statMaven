@@ -60,6 +60,7 @@
                         <configuration>
                             <rules>
                                 <rule>
+
                                     <limits>
                                         <limit>
                                             <counter>LINE</counter>
